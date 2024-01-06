@@ -1,6 +1,8 @@
 
 production/
 
+*.kicad_*.lck
+
 16SegLed.step
 
 # Created by https://www.toptal.com/developers/gitignore/api/kicad,freecad
