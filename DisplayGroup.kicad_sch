@@ -2917,7 +2917,7 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 83.82 105.41 90) (unit 1)
-    (in_bom no) (on_board no) (dnp yes)
+    (in_bom no) (on_board no) (dnp no)
     (uuid 21e42053-f043-45f5-8d1c-dff37a1495ee)
     (property "Reference" "JP3" (at 83.185 100.33 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2987,7 +2987,7 @@
   )
 
   (symbol (lib_id "_ProjectLib:5241AX") (at 298.45 41.275 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 319874e5-fec0-48a5-bb87-1b1ceec775e9)
     (property "Reference" "DS3" (at 322.58 45.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3034,7 +3034,7 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 86.36 105.41 90) (unit 1)
-    (in_bom no) (on_board no) (dnp yes)
+    (in_bom no) (on_board no) (dnp no)
     (uuid 3b3d8143-3599-4c74-a5f2-db1da31a897c)
     (property "Reference" "JP4" (at 85.725 100.33 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3099,7 +3099,7 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 81.28 105.41 90) (unit 1)
-    (in_bom no) (on_board no) (dnp yes)
+    (in_bom no) (on_board no) (dnp no)
     (uuid 787b18a6-5478-4961-a5ec-574fc775c72a)
     (property "Reference" "JP2" (at 80.645 100.33 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3128,7 +3128,7 @@
   )
 
   (symbol (lib_id "_ProjectLib:5241AX") (at 226.695 41.91 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 866169aa-1c3b-47ca-a1a5-d5e61bda41b6)
     (property "Reference" "DS2" (at 250.19 46.355 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3241,7 +3241,7 @@
   )
 
   (symbol (lib_id "_ProjectLib:5241AX") (at 372.11 41.275 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a8df9315-a2da-4c71-8856-7685830c8de3)
     (property "Reference" "DS4" (at 396.24 46.355 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3288,7 +3288,7 @@
   )
 
   (symbol (lib_id "_ProjectLib:5241AX") (at 153.035 41.91 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aebbd2d5-7baf-462e-8e78-5fefd67b73f9)
     (property "Reference" "DS1" (at 177.165 46.99 0)
       (effects (font (size 1.27 1.27)) (justify left))

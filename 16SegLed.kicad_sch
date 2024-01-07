@@ -2700,7 +2700,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 146.685 178.435 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 02c16451-3c14-4152-9d1b-ad28e7641bb0)
     (property "Reference" "J6" (at 147.32 185.42 0)
       (effects (font (size 1.27 1.27)))
@@ -2731,7 +2731,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x06_Socket") (at 207.01 102.235 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 0312e4fb-8456-4188-96e5-2460f9487daf)
     (property "Reference" "J4" (at 205.105 103.505 90)
       (effects (font (size 1.27 1.27)))
@@ -2761,7 +2761,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 116.205 178.435 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 07d30566-978d-496c-9fa1-7cbef7a93e3f)
     (property "Reference" "J5" (at 116.84 185.42 0)
       (effects (font (size 1.27 1.27)))
@@ -3005,7 +3005,7 @@
   )
 
   (symbol (lib_id "Device:C_Polarized_Small") (at 208.28 134.62 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d36ca81-d447-4d91-9a07-f6315015c160)
     (property "Reference" "C9" (at 210.82 133.4389 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3098,7 +3098,7 @@
   )
 
   (symbol (lib_id "Device:C_Polarized_Small") (at 238.125 137.795 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3d2d8ceb-5908-4f53-af7e-8211e9a7a1b1)
     (property "Reference" "C4" (at 241.3 135.9789 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3190,7 +3190,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 162.56 135.89 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 47e37056-625b-4d33-bbf3-9a02cc037990)
     (property "Reference" "USB1" (at 163.195 142.24 0)
       (effects (font (size 1.27 1.27)))
@@ -3256,7 +3256,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 203.2 55.245 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d76db4a-888c-49b2-941e-64e967d987c5)
     (property "Reference" "SW2" (at 203.2 59.055 0)
       (effects (font (size 1.27 1.27)))
@@ -3282,7 +3282,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 45.085 47.625 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4d887bc4-f429-4a32-98b5-24ea7cbd711c)
     (property "Reference" "SW1" (at 46.99 46.355 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3481,7 +3481,7 @@
   )
 
   (symbol (lib_id "Regulator_Linear:AMS1117-3.3") (at 252.73 130.175 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5f4f9632-304e-4a35-a242-44576e253fbf)
     (property "Reference" "U2" (at 252.73 123.19 0)
       (effects (font (size 1.27 1.27)))
@@ -3804,7 +3804,7 @@
   )
 
   (symbol (lib_id "Power_Protection:SRV05-4") (at 34.29 85.725 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7c85ec5a-145f-4f82-b856-6e719172fda8)
     (property "Reference" "U5" (at 37.9161 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3892,7 +3892,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 233.045 137.795 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 7dd00b4a-e02f-4f4e-b6c9-35d7bf4eb04c)
     (property "Reference" "C11" (at 229.87 136.5186 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3921,7 +3921,7 @@
   )
 
   (symbol (lib_id "PCM_Espressif:ESP32-S3-WROOM-1") (at 111.125 75.565 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 87d2f3d3-d3ba-46b6-8733-eeb0b8d67cbf)
     (property "Reference" "U1" (at 113.3191 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4154,7 +4154,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 119.38 26.035 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9d62c5b7-e23d-4016-ab49-dd9b4ec93ace)
     (property "Reference" "C2" (at 119.3863 19.685 90)
       (effects (font (size 1.27 1.27)))
@@ -4292,7 +4292,7 @@
   )
 
   (symbol (lib_id "Device:C_Polarized_Small") (at 266.065 137.795 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid bed09da8-8bc3-46be-b583-b2fdc40af472)
     (property "Reference" "C5" (at 262.89 135.9789 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4321,7 +4321,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 175.26 -14.605 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid c7f8dcd9-e917-41be-b03b-2775bc25458b)
     (property "Reference" "R13" (at 177.165 -15.875 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4480,7 +4480,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 271.145 137.795 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid dae6c0e3-e477-4d7b-808f-43d3944f89b6)
     (property "Reference" "C10" (at 274.32 136.5186 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4509,7 +4509,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 27.94 43.18 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dd7ab93c-163a-4472-b30b-86bebadd6992)
     (property "Reference" "C1" (at 31.115 41.9163 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4588,7 +4588,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 27.94 36.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f50677e7-f0bc-4315-a505-e8ab4b342d92)
     (property "Reference" "R1" (at 29.845 35.56 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4654,7 +4654,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 137.795 135.89 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid fe639d00-f814-4e16-9ae5-69539dcb6798)
     (property "Reference" "USB1" (at 138.43 142.24 0)
       (effects (font (size 1.27 1.27)))

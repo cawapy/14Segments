@@ -363,7 +363,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 76.2 78.105 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 53e536b6-0b63-4591-8c36-6b6a40f81435)
     (property "Reference" "R3" (at 72.39 76.2 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -398,7 +398,7 @@
   )
 
   (symbol (lib_id "Transistor_FET:BSS138") (at 82.55 81.28 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 72fd8420-8154-46c6-8162-5e77b3dd6e4b)
     (property "Reference" "Q2" (at 82.55 87.63 90)
       (effects (font (size 1.27 1.27)))
@@ -501,7 +501,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 88.9 78.105 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f29a91b0-9175-42ca-b4fd-1c885a5aebdb)
     (property "Reference" "R5" (at 91.44 76.835 0)
       (effects (font (size 1.27 1.27)) (justify left))
