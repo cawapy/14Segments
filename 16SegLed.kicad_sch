@@ -2226,6 +2226,11 @@
     (stroke (width 0) (type default))
     (uuid b771f8c7-0cbc-4b5b-a1d8-00f2e76562a1)
   )
+  (polyline (pts (xy 162.56 142.24) (xy 163.195 142.24))
+    (stroke (width 0) (type default))
+    (uuid b7ce8b60-496f-44c7-82fb-0b16eb88fba2)
+  )
+
   (wire (pts (xy 179.07 125.095) (xy 180.34 125.095))
     (stroke (width 0) (type default))
     (uuid b7d5809c-6659-4d66-8946-eb52426ffaae)
@@ -2294,6 +2299,11 @@
     (stroke (width 0) (type default))
     (uuid d1c51b3d-832f-47ef-a803-3870d6208c02)
   )
+  (polyline (pts (xy 163.195 154.305) (xy 163.195 142.24))
+    (stroke (width 0) (type default))
+    (uuid d2839195-ceef-4aee-99cf-a4a0b43d38a3)
+  )
+
   (wire (pts (xy 64.77 157.48) (xy 64.77 162.56))
     (stroke (width 0) (type default))
     (uuid d2b050d7-02bf-4e3c-afd7-7dde3b802b77)
@@ -2326,6 +2336,11 @@
     (stroke (width 0) (type default))
     (uuid ddb5a032-02bc-4bfc-94af-cd0f5c6359e0)
   )
+  (polyline (pts (xy 190.5 154.305) (xy 163.195 154.305))
+    (stroke (width 0) (type default))
+    (uuid de0b1930-14b8-4279-aa2b-09ede01ced13)
+  )
+
   (wire (pts (xy 219.71 71.12) (xy 226.695 71.12))
     (stroke (width 0) (type default))
     (uuid de4db557-ad21-4253-a267-4fb9a303fc11)
@@ -2389,6 +2404,14 @@
   (wire (pts (xy 255.27 -22.86) (xy 255.27 -20.955))
     (stroke (width 0) (type default))
     (uuid ffe40785-701b-4e82-9bb6-a65c1b6575b4)
+  )
+
+  (text_box "For panel/wall mount USB-C socket:\nModel Number: CHT-TS023R-H200-P4\nManufacturer: CYX\n\nOpen:\nAre CC1 and CC2 of USB-C needed to be compatible with USB-C host?\nWith 4P connector on PCB (w/o CC1, CC2), this would need to be fixed in wall mount socket)\nAlternative: Design on PCB, using CHT-TS023R-H200-P6 (including CC1, CC2)"
+    (at 190.5 154.305 0) (size 52.705 25.4)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 3d163dde-a2c9-4623-8924-a59a9132db42)
   )
 
   (label "IO10" (at 216.535 99.695 0) (fields_autoplaced)
